@@ -9,7 +9,7 @@ httpserver.h is a single header C library for building event driven non-blocking
 Supports Linux with epoll and BSD/Mac with kqueue.
 
 # Example
-
+ 
 ```c
 #define HTTPSERVER_IMPL
 #include "httpserver.h"
